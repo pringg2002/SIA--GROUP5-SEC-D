@@ -1,0 +1,26 @@
+{
+  "name": "midterm_exam",
+  "version": "1.0.0",
+  "description": "group5_midtermSecD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pringg2002/SIA--GROUP5-SEC-D.git"
+  },
+  "keywords": [
+    "midterm",
+    "group5"
+  ],
+  "author": "castillon, ortiz, partosa, palopalo, rabadon, palmis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pringg2002/SIA--GROUP5-SEC-D/issues"
+  },
+  "homepage": "https://github.com/pringg2002/SIA--GROUP5-SEC-D#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
